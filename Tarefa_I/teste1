@@ -1,0 +1,6 @@
+Quanto tempo gastam os algoritmos 
+de busca e insercao 
+numa arvore de busca?
+Para ambos os algoritmos,
+o tempo e limitado 
+pela altura da arvore.
